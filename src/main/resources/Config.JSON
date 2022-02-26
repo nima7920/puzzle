@@ -1,0 +1,80 @@
+{
+  "allConfigurations": [
+    {
+      "pieceNumbers": [
+        1,
+        5,
+        7,
+        4,
+        8,
+        2,
+        3,
+        0,
+        6
+      ]
+    },
+    {
+      "pieceNumbers": [
+        1,
+        6,
+        2,
+        8,
+        0,
+        3,
+        7,
+        4,
+        5
+      ]
+    },
+    {
+      "pieceNumbers": [
+        1,
+        8,
+        4,
+        3,
+        5,
+        2,
+        6,
+        7,
+        0
+      ]
+    },
+    {
+      "pieceNumbers": [
+        1,
+        4,
+        5,
+        0,
+        6,
+        3,
+        2,
+        8,
+        7
+      ]
+    },
+    {
+      "pieceNumbers": [
+        1,
+        7,
+        0,
+        6,
+        2,
+        8,
+        5,
+        3,
+        4
+      ]
+    }
+  ],
+  "imagePaths": {
+    "0": ".//src//main//resources//assets//missing.jpg",
+    "1": ".//src//main//resources//assets//1.png",
+    "2": ".//src//main//resources//assets//2.png",
+    "3": ".//src//main//resources//assets//3.png",
+    "4": ".//src//main//resources//assets//4.png",
+    "5": ".//src//main//resources//assets//5.png",
+    "6": ".//src//main//resources//assets//6.png",
+    "7": ".//src//main//resources//assets//7.png",
+    "8": ".//src//main//resources//assets//8.png"
+  }
+}
